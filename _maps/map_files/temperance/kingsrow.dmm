@@ -2059,6 +2059,10 @@
 /obj/structure/fluff/railing/border,
 /turf/open/floor/rogue/brown,
 /area/rogue/indoors/shelter/town)
+"nR" = (
+/obj/machinery/light/rogue/cauldron,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/indoors/shelter/town)
 "nW" = (
 /obj/structure/table/wood/large_table/north_east{
 	dir = 1
@@ -2254,6 +2258,10 @@
 	},
 /obj/machinery/light/rogue/wallfire/candle/weak,
 /turf/open/floor/rogue/ruinedwood/spiral,
+/area/rogue/indoors/shelter/town)
+"pd" = (
+/obj/structure/fermentation_keg/water,
+/turf/open/floor/rogue/herringbone,
 /area/rogue/indoors/shelter/town)
 "pe" = (
 /obj/structure/chair/bench/couchablack/r,
@@ -3596,6 +3604,10 @@
 "xD" = (
 /obj/structure/fluff/railing/corner,
 /turf/open/floor/rogue/brown,
+/area/rogue/indoors/shelter/town)
+"xG" = (
+/obj/structure/fluff/alch,
+/turf/open/floor/rogue/herringbone,
 /area/rogue/indoors/shelter/town)
 "xH" = (
 /obj/structure/chair/wood/rogue/generic1{
@@ -71337,9 +71349,9 @@ uf
 lr
 VB
 uf
-Oe
+aT
 AH
-zQ
+Oe
 uf
 nz
 nz
@@ -74281,7 +74293,7 @@ Ot
 Ot
 Ot
 uf
-LO
+xG
 is
 pT
 uf
@@ -75190,8 +75202,8 @@ Ot
 Ot
 uf
 YB
-vH
-vH
+pd
+nR
 uf
 jr
 jr
